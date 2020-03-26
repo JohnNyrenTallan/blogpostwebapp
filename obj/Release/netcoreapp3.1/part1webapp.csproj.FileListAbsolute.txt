@@ -1,11 +1,9 @@
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
-C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\App.config
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\appsettings.Development.json
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\appsettings.json
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\Properties\launchSettings.json
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\part1webapp.exe
-C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\part1webapp.dll.config
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\part1webapp.deps.json
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\part1webapp.runtimeconfig.json
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\part1webapp.runtimeconfig.dev.json
@@ -126,3 +124,4 @@ C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\Microsoft.Azure.Services.
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
 C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\BlogPostRepos\part1webapp\bin\Release\netcoreapp3.1\web.config

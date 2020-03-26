@@ -115,8 +115,6 @@ C:\BlogPostRepos\part1webapp\obj\Debug\netcoreapp3.1\part1webapp.dll
 C:\BlogPostRepos\part1webapp\obj\Debug\netcoreapp3.1\part1webapp.pdb
 C:\BlogPostRepos\part1webapp\obj\Debug\netcoreapp3.1\part1webapp.genruntimeconfig.cache
 C:\BlogPostRepos\part1webapp\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
-C:\BlogPostRepos\part1webapp\bin\Debug\netcoreapp3.1\App.config
-C:\BlogPostRepos\part1webapp\bin\Debug\netcoreapp3.1\part1webapp.dll.config
 C:\BlogPostRepos\part1webapp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
 C:\BlogPostRepos\part1webapp\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
 C:\BlogPostRepos\part1webapp\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
@@ -126,3 +124,4 @@ C:\BlogPostRepos\part1webapp\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.Ap
 C:\BlogPostRepos\part1webapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 C:\BlogPostRepos\part1webapp\obj\Debug\netcoreapp3.1\part1webapp.csproj.CoreCompileInputs.cache
 C:\BlogPostRepos\part1webapp\obj\Debug\netcoreapp3.1\part1webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\BlogPostRepos\part1webapp\bin\Debug\netcoreapp3.1\web.config

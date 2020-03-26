@@ -34,7 +34,7 @@ namespace part1webapp
             var keyVaultClient = new KeyVaultClient(
                 new KeyVaultClient.AuthenticationCallback(azureServiceTokenProvider.KeyVaultTokenCallback));
 
-            var secrets = keyVaultClient.GetSecretsAsync("https://part1kv.vault.azure.net/secrets").Result;
+            var secrets = keyVaultClient.GetSecretsAsync("https://part1kv.vault.azure.net").Result;
 
             foreach (var secret in secrets.ToList())
             {
